@@ -10,6 +10,7 @@ import Greet from "./greet";
 /**
  * Greet should render the text hello and if name is passed into the component
  * It should render hello followed by the name.
+ *
  */
 
 test("Greet renders Correctly", () => {
